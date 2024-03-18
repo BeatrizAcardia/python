@@ -1,0 +1,2 @@
+n1 = int(input("Digite um número para ver o seu dobro, seu triplo e seu quadrado: "))
+print(f"O dobro do número digitado é: {n1*2} \nO triplo do número digitado é: {n1*3} \nO quadrado do número digitado é: {n1*4}")
